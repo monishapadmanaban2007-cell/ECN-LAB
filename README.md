@@ -1,4 +1,6 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
+## NAME : MONISHA P
+## REF NO: 25018486
 
 **AIM:**
 
@@ -24,8 +26,13 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/661f06c3-251b-4b96-a775-9a09de70a3bd" />
 
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/276cfc56-e8bb-4fae-8c28-93985a348ceb"/>
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b0ece22d-167f-4641-8cdf-94a2c6f4316b" />
+
+<img width="885" height="1280" alt="image" src="https://github.com/user-attachments/assets/189d6e4c-3a79-4b67-8bf5-8ec85f4a89f8" />
 
 
 
